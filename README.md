@@ -1,6 +1,6 @@
 # Bluebonnet Records
 
-Basic code for Records landing page.
+Basic code for Bluebonnet Records landing page.
 
 ## Development Notes
 
